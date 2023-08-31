@@ -1,0 +1,82 @@
+#story{
+    display: flex;
+    align-items: center;
+}
+#story img{
+    margin-right: 10px;
+}
+#story p{
+    font-size: 150%;
+    font-style: italic;
+}
+#story h2{
+    align-items: first baseline;
+    font-size: larger;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 200%;
+    font-style: italic;
+}
+hr{
+    height: 30px;
+}
+#coffee img{
+    width: 50%;
+    margin-right: 10px;
+}
+#coffee{
+    display: flex;
+    align-items: center;
+}
+#coffee p{
+    font-size: 150%;
+    font-style: italic;
+}
+#coffee h2{
+    align-items: first baseline;
+    font-size: larger;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 200%;
+    font-style: italic;
+}
+#Shops img{
+    width: 50%;
+    margin-right: 10px;
+}
+#Shops{
+    display: flex;
+    align-items: center;
+}
+#Shops p{
+    font-size: 150%;
+    font-style: italic;
+}
+#Shops h2{
+    align-items: first baseline;
+    font-size: larger;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 200%;
+    font-style: italic;
+}
+#Products img{
+    width: 50%;
+    margin-right: 10px;
+}
+#Products{
+    display: flex;
+    align-items: center;
+}
+#Products p{
+    font-size: 150%;
+    font-style: italic;
+}
+#Products h2{
+    align-items: first baseline;
+    font-size: larger;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 200%;
+    font-style: italic;
+}
